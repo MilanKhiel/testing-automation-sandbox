@@ -1,6 +1,6 @@
-# testing-automation-sandbox
+# Testing & Automation Sandbox (Python, pytest)
 
-Small Python project to practice writing testable code and automated tests with pytest.
+This project implements functions to apply price discounts and check password strength with clear input validation and error handling. It also includes pytest tests that cover normal, edge, and invalid cases to automatically verify that the behavior is correct.
 
 ## What it does
 
